@@ -1,0 +1,23 @@
+.App {
+  font-family: open-sans;
+  text-align: center;
+  margin: 1.25rem;
+  font-size: 1rem;
+}
+
+.add-members,
+.create-group {
+  margin-bottom: 1.25rem;
+  margin-top: 0.5rem;
+}
+
+.member-form {
+  padding: 1.25rem;
+}
+
+.add-member-btn {
+  padding: 1.05rem;
+  margin: 0.75rem;
+  border: 1px solid grey;
+  border-radius: 10%;
+}
